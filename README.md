@@ -1,9 +1,8 @@
 # Udacity-Ubuntu
 
-IP address: 18.220.106.223
-
+IP address: 165.227.12.240
 Accessible SSH port: 2200.
+APP URL: vathox.com
 
-Application URL: http://ec2-18-220-106-223.us-east-2.compute.amazonaws.com/.
 
-Software installed: Apache2, finger, glances, posgreSQL
+Software installed: Apache2, posgreSQL
