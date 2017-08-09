@@ -4,11 +4,9 @@ IP address: 165.227.12.240
 Accessible SSH port: 2200.
 APP URL: vathox.com
 
-
 Software installed: Apache2, posgreSQL
 
-Configurations made:
-
+#Configurations made:
 
 Updated all currently installed packages.
 Changed the SSH port from 22 to 2200.
